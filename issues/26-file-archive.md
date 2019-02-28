@@ -130,6 +130,7 @@ TODO:
 * protocols: [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), rsync
 * clients: FileZilla, WinSCP
 * Git LFS
+* Git "inside out" that only versions meta for files, while the files are stored externally to .git repo (is it what LFS is doing?)
 * IPFS
 * Keybase KBFS ([example directory](https://keybase.pub/jz_bz/decred/binaries/v1.4.0/))
 * Nextcloud (file hosting, doc hosting and collab, photo gallery, calendar (#116))
