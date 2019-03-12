@@ -21,3 +21,8 @@ A replacement can look like Reddit and be based on Politeia, with _at least_ the
 * transparent censorship
 
 Besides Politeia, another interesting possible foundation is Matrix protocol. It may give opportunities to deeply integrate with chats. I don't know Matrix to see if the solution built on it can satisfy all fundamental requirements.
+
+Discussions:
+
+* [2019-01-21](https://www.reddit.com/r/decred/comments/aib2x3/noah_pierau_on_blockchain_governance_decred/): good and bad sides of Reddit
+* [2019-02-11](https://www.reddit.com/r/decred/comments/api7e7/decreds_community_spaces_a_crude_analogy/): Decred's community spaces - a crude analogy
