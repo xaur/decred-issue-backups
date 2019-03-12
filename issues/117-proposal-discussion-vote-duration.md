@@ -9,3 +9,7 @@ Perhaps I'm just bad at organizing my time and this issue is to learn if many pe
 As a general rule, I would suggest longer discussion and voting windows for proposals with bigger impact (in both spend and policy). For anything larger than $50K, I think a default should be 14 days to discuss _on Politeia_ and 14 days to vote.
 
 One idea to study the problem better is to survey how long people spend to decide on an average proposal.
+
+Discussions:
+
+* [2019-02-11](https://www.reddit.com/r/decred/comments/api7e7/decreds_community_spaces_a_crude_analogy/): Decred's community spaces - a crude analogy
