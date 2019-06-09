@@ -1,0 +1,15 @@
+Develop a program to select, train and verify people to represent Decred. They must understand and be able to explain Decred clearly.
+
+The whole program is optional: one is (obviously) not obliged to have a certificate or a title to represent Decred. The intent is to provide some base level of quality for representing the project, so that people know if they reach out to a certified ambassador, they will get a good treatment and accurate knowledge.
+
+The knowledge can be verified pretty easily during a chat interview. A prepared set of key questions will help.
+
+There can be several levels of knowing and being able to explain Decred, depending on one's technical knowledge. Deep technical knowledge is welcome but is not required. What matters is understanding the fundamental vision and goals of the project.
+
+Aside from knowledge aspect, the person needs to be psychologically stable and not get triggered by things that a lot of today people get increasingly triggered by. Put simply, not be a snowflake, and be able to handle annoying people, trolls, hostility and people with different views on what one thinks is important in life.
+
+This human aspect is obviously harder to verify than knowledge. The only way I can suggest is that multiple existing ambassadors observe the activity of a candidate over a period of time, say 6 months, and vouch for him. This can be either soft voting or it can employ signing candidate's public key together with something like "he can represent Decred well" message. A web of trust system can be useful here (see #46).
+
+Design a full workflow of bootstrapping, granting and revoking the certificate.
+
+Choose a good name for the certificate, alternatives are: title, clearance, license. It must convey that it is a mark of quality, good attitude, is a mark of respect.
