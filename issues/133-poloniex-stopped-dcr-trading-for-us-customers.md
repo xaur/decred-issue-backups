@@ -1,4 +1,4 @@
-Links:
+Announcements:
 
 * [2019-05-16](https://twitter.com/Poloniex/status/1129100271353827328): Twitter announcement
 * [2019-05-16](https://medium.com/circle-trader/poloniex-to-stop-offering-trading-of-9-assets-to-us-customers-all-assets-remain-available-to-b4c5703c0e9): announcement on Medium
@@ -7,6 +7,10 @@ Links:
 * [Asset geofencing FAQ](https://support.poloniex.circle.com/hc/en-us/articles/360026059671-Asset-Geofencing-FAQ)
 * [Geofenced assets and features](https://support.poloniex.circle.com/hc/en-us/articles/360029078252-Geofenced-Assets-And-Features-On-Poloniex)
 
+Analysis:
+
+* [2019-06-09](https://medium.com/coinmonks/the-regulators-are-coming-a1ba2f8c02be): Fiach_Dubh's analysis of SEC's Framework for 'Investment Contract' Analysis of Digital Assets with respect to Decred, "There's a 47% chance that Decred is an investment contract and trades like a security".
+
 Discussions:
 
 * [2019-05-16](https://www.reddit.com/r/decred/comments/bpgv33/why_is_poloniex_delisting_decred/): why is Poloniex geofencing Dered?
@@ -14,4 +18,5 @@ Discussions:
 * [2019-05-19](https://www.reddit.com/r/decred/comments/bqjclp/decred_should_wait_to_announce_the_implementation/): should Decred withhold privacy release until SEC declares it is not a security?
 * [2019-05-23](https://www.reddit.com/r/decred/comments/bs4768/this_document_triggered_poloniex_to_stop_dcr/): it's weird that something that is not "not a rule, regulation, or statement of the Commission" triggered a real move from Circle
 * [2019-06-08](https://www.reddit.com/r/decred/comments/by7bx1/interesting_that_bittrex_did_not_geobaned_decred/): interesting that Bittrex didn't geofence DCR in their June 21 [market availability changes](https://bittrex.zendesk.com/hc/en-us/articles/360028996652)
+* [2019-06-09](https://www.reddit.com/r/decred/comments/byffz1/the_regulators_are_coming_canary_in_the_decred/): discussion of Fiach_Dubh's analysis of the SEC framework; confusion about who are "Active Participants", idea that the whole document is targeted at ICOs and fundraising and not cryptocurrencies
 * [2019-06-26](https://www.reddit.com/r/decred/comments/c5urv2/will_bittrex_keep_dcr_or_do_what_polo_did_to_us/): will Bittrex follow Poloniex?
