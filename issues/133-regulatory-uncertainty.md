@@ -1,11 +1,17 @@
 Announcements:
 
-* [2019-05-16](https://twitter.com/Poloniex/status/1129100271353827328): Twitter announcement
-* [2019-05-16](https://medium.com/circle-trader/poloniex-to-stop-offering-trading-of-9-assets-to-us-customers-all-assets-remain-available-to-b4c5703c0e9): announcement on Medium
-* [2019-05-20](https://blog.circle.com/2019/05/20/us-crypto-policy-needs-to-change/): follow-up blog post that references SEC's [statement](https://www.sec.gov/news/public-statement/statement-framework-investment-contract-analysis-digital-assets) on [Framework for 'Investment Contract' Analysis of Digital Assets"](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets) as a direct trigger for the move
-* [2019-05-23](https://blog.circle.com/2019/05/23/our-take-interpreting-recent-signals-from-us-regulatory-agencies/): another follow-up post that elaborates on the interpretation of the framework
-* [Asset geofencing FAQ](https://support.poloniex.circle.com/hc/en-us/articles/360026059671-Asset-Geofencing-FAQ)
-* [Geofenced assets and features](https://support.poloniex.circle.com/hc/en-us/articles/360029078252-Geofenced-Assets-And-Features-On-Poloniex)
+* [2019-05-16](https://medium.com/circle-trader/poloniex-to-stop-offering-trading-of-9-assets-to-us-customers-all-assets-remain-available-to-b4c5703c0e9): Poloniex: announced that they will disable markets for 9 assets (including DCR) for US customers on May 29, citing "regulatory uncertainty" or "it is not possible to be certain whether US regulators will consider these assets to be securities" (Twitter [thread](https://twitter.com/Poloniex/status/1129100271353827328))
+* [2019-05-20](https://blog.circle.com/2019/05/20/us-crypto-policy-needs-to-change/): Poloniex: follow-up blog post that references SEC's [statement](https://www.sec.gov/news/public-statement/statement-framework-investment-contract-analysis-digital-assets) on [Framework for 'Investment Contract' Analysis of Digital Assets](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets) as a direct trigger for the move
+* [2019-05-23](https://blog.circle.com/2019/05/23/our-take-interpreting-recent-signals-from-us-regulatory-agencies/): Poloniex: another follow-up post that elaborates on the interpretation of the framework
+* [2019-06-07](https://bittrex.zendesk.com/hc/en-us/articles/360028996652): Bittrex: will stop trading of 32 assets for US customers on June 21, DCR is not in the list
+* [2019-06-12](https://www.gate.io/article/16909): Gate.io: will stop trading of 19 assets (including DCR) for US customers on June 30. They also cited "regulatory uncertainty" but did not link to any specific documents. Interestingly, the list includes XMR which is a sovereign decentralized currency without any voting features (which are speculated by some to be the source of "uncertainty").
+* [2019-06-14](https://www.binance.com/en/support/articles/360029196512): Binance: announced they will stop deposits and trading on Sep 12 for users that "are not in accordance" with the updated terms. This was an indirect announcement of restricting US customers, as the updated terms [said](https://archive.today/TPdKI) "Binance is unable to provide services to any U.S. person". The terms were later [updated](https://archive.today/mSvLV) with a more general statement "may restrict or deny the Services in certain countries at its discretion". Same day they [announced](https://www.binance.com/en/blog/346119082624540672/Binance-Announces-Partnership-with-BAM-to-Launch-US-Exchange) a launch of a FinCEN-registered Binance.US exchange specifically for US customers. According to [The Block](https://www.theblockcrypto.com/2019/06/14/us-customers-to-be-blocked-from-trading-on-binance-com/), US accounted for 15% of Binance.com's traffic, down from 30% since early 2018.
+* [2019-06-18](https://twitter.com/Bancor/status/1140990178066096128): Bancor announced restrictions for US customers (added for context, no impact on Decred).
+
+Other links:
+
+* [Asset geofencing FAQ](https://support.poloniex.circle.com/hc/en-us/articles/360026059671-Asset-Geofencing-FAQ) (Poloniex)
+* [Geofenced assets and features](https://support.poloniex.circle.com/hc/en-us/articles/360029078252-Geofenced-Assets-And-Features-On-Poloniex) (Poloniex)
 
 Analysis:
 
