@@ -26,3 +26,4 @@ Discussions:
 * [2019-06-08](https://www.reddit.com/r/decred/comments/by7bx1/interesting_that_bittrex_did_not_geobaned_decred/): interesting that Bittrex didn't geofence DCR in their June 21 [market availability changes](https://bittrex.zendesk.com/hc/en-us/articles/360028996652)
 * [2019-06-09](https://www.reddit.com/r/decred/comments/byffz1/the_regulators_are_coming_canary_in_the_decred/): discussion of Fiach_Dubh's analysis of the SEC framework; confusion about who are "Active Participants", idea that the whole document is targeted at ICOs and fundraising and not cryptocurrencies
 * [2019-06-26](https://www.reddit.com/r/decred/comments/c5urv2/will_bittrex_keep_dcr_or_do_what_polo_did_to_us/): will Bittrex follow Poloniex?
+* [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/18): whether paid market maker will put Decred under scrutiny, chances of a DCR to be a security
